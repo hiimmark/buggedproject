@@ -1,2 +1,2 @@
-# buggedproject
-idk why
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
